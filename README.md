@@ -40,7 +40,11 @@ https://github.com/grapestone5321/mlnd-rl_quadcopter_2
 
 - Project: Optimize Your GitHub Profile
 
+https://github.com/grapestone5321
+
 - Project: Improve Your LinkedIn Profile
+
+https://www.linkedin.com/in/grapestone5321/?locale=en_US
 
 - Project: Capstone Proposal
 
