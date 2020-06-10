@@ -12,10 +12,15 @@ In this term, you’ll begin by exploring core machine learning concepts, before
 
 - Project: Predicting Boston Housing Prices
 
+https://github.com/grapestone5321/boston_housing
+
 - Project: Finding Donors for CharityML
+
+https://github.com/grapestone5321/finding_donors
 
 - Project: Creating Customer Segments
 
+https://github.com/grapestone5321/customer_segments
 
 ## PART 2
 
@@ -27,6 +32,8 @@ The term will culminate with a capstone project of your choosing, that applies t
 
 - Project: Dog Breed Classifier
 
+https://github.com/grapestone5321/mlnd-dog_breed_classifier
+
 - Project: Teach a Quadcopter How to Fly
 
 https://github.com/grapestone5321/mlnd-rl_quadcopter_2
@@ -37,7 +44,7 @@ https://github.com/grapestone5321/mlnd-rl_quadcopter_2
 
 - Project: Capstone Proposal
 
-https://github.com/grapestone5321/mlnd-capstone_project
+https://github.com/grapestone5321/mlnd-capstone_proposal
 
 - Project: Capstone Project
 
