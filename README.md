@@ -29,10 +29,17 @@ The term will culminate with a capstone project of your choosing, that applies t
 
 - Project: Teach a Quadcopter How to Fly
 
+https://github.com/grapestone5321/mlnd-rl_quadcopter_2
+
 - Project: Optimize Your GitHub Profile
 
 - Project: Improve Your LinkedIn Profile
 
 - Project: Capstone Proposal
 
+https://github.com/grapestone5321/mlnd-capstone_project
+
 - Project: Capstone Project
+
+https://github.com/grapestone5321/mlnd-capstone_project
+
